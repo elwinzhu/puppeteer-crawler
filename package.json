@@ -1,0 +1,16 @@
+{
+  "name": "jobs-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "elwin",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.2.4",
+    "puppeteer": "^1.15.0"
+  }
+}

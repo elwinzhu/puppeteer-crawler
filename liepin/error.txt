@@ -1,0 +1,94 @@
+Fri May 17 2019 17:00:50 GMT-0700 (Pacific Daylight Time)
+Proxy Ip banned.
+-------------------------------------------------------------
+Fri May 17 2019 18:17:53 GMT-0700 (Pacific Daylight Time)
+Proxy Ip banned.
+-------------------------------------------------------------
+**** One job skipped ****
+Evaluation failed: TypeError: Cannot read property 'innerText' of null
+    at __puppeteer_evaluation_script__:1:73
+
+Url: https://www.liepin.com/job/1915432793.shtml?imscid=R000000075&ckid=309ec9736958fc9a&headckid=null&pageNo=0&pageIdx6&totalIdx=6&sup=1&siTag=LsVDveg6Gj7X6wZ25mSovA%7EzvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_sub_site&d_ckId=8d65148d77f7ffb0198c4c99135998d7&d_curPage=0&d_pageSize=40&d_headId=8d65148d77f7ffb0198c4c99135998d7&d_posi=6
+*************************
+**** One job skipped ****
+Evaluation failed: TypeError: Cannot read property 'innerText' of null
+    at __puppeteer_evaluation_script__:1:73
+
+Url: https://www.liepin.com/job/1915442838.shtml?imscid=R000000075&ckid=309ec9736958fc9a&headckid=null&pageNo=0&pageIdx15&totalIdx=15&sup=1&siTag=LsVDveg6Gj7X6wZ25mSovA%7EzvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_sub_site&d_ckId=8d65148d77f7ffb0198c4c99135998d7&d_curPage=0&d_pageSize=40&d_headId=8d65148d77f7ffb0198c4c99135998d7&d_posi=15
+*************************
+**** One job skipped ****
+Evaluation failed: TypeError: Cannot read property 'innerText' of null
+    at __puppeteer_evaluation_script__:1:73
+
+Url: https://www.liepin.com/job/1915442822.shtml?imscid=R000000075&ckid=309ec9736958fc9a&headckid=null&pageNo=0&pageIdx16&totalIdx=16&sup=1&siTag=LsVDveg6Gj7X6wZ25mSovA%7EzvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_sub_site&d_ckId=8d65148d77f7ffb0198c4c99135998d7&d_curPage=0&d_pageSize=40&d_headId=8d65148d77f7ffb0198c4c99135998d7&d_posi=16
+*************************
+**** One job skipped ****
+Evaluation failed: TypeError: Cannot read property 'innerText' of null
+    at __puppeteer_evaluation_script__:1:73
+
+Url: https://www.liepin.com/job/1915420333.shtml?imscid=R000000075&ckid=309ec9736958fc9a&headckid=null&pageNo=0&pageIdx18&totalIdx=18&sup=1&siTag=LsVDveg6Gj7X6wZ25mSovA%7EzvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_sub_site&d_ckId=8d65148d77f7ffb0198c4c99135998d7&d_curPage=0&d_pageSize=40&d_headId=8d65148d77f7ffb0198c4c99135998d7&d_posi=18
+*************************
+Mon May 20 2019 10:27:02 GMT-0700 (Pacific Daylight Time)
+Proxy Ip banned.
+-------------------------------------------------------------
+**** One job skipped ****
+Evaluation failed: TypeError: Cannot read property 'innerText' of null
+    at __puppeteer_evaluation_script__:1:73
+
+Url: https://www.liepin.com/job/198638781.shtml?imscid=R000000075&ckid=2d2f35849a611d29&headckid=null&pageNo=0&pageIdx26&totalIdx=26&sup=1&siTag=p_XzVCa5J0EfySMbVjghcw%7EzvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_sub_site&d_ckId=9258edb98e0c5c9d0d35bca4f47ad38c&d_curPage=0&d_pageSize=40&d_headId=9258edb98e0c5c9d0d35bca4f47ad38c&d_posi=26
+*************************
+**** One job skipped ****
+Evaluation failed: TypeError: Cannot read property 'innerText' of null
+    at __puppeteer_evaluation_script__:1:73
+
+Url: https://www.liepin.com/job/1914074075.shtml?imscid=R000000075&ckid=2d2f35849a611d29&headckid=null&pageNo=1&pageIdx39&totalIdx=79&sup=1&siTag=p_XzVCa5J0EfySMbVjghcw%7EzvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_sub_site&d_ckId=9258edb98e0c5c9d0d35bca4f47ad38c&d_curPage=1&d_pageSize=40&d_headId=9258edb98e0c5c9d0d35bca4f47ad38c&d_posi=79
+*************************
+**** One job skipped ****
+Evaluation failed: TypeError: Cannot read property 'innerText' of null
+    at __puppeteer_evaluation_script__:1:73
+
+Url: https://www.liepin.com/job/1914074075.shtml?imscid=R000000075&ckid=2d2f35849a611d29&headckid=null&pageNo=2&pageIdx7&totalIdx=87&sup=1&siTag=p_XzVCa5J0EfySMbVjghcw%7EzvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_sub_site&d_ckId=9258edb98e0c5c9d0d35bca4f47ad38c&d_curPage=2&d_pageSize=40&d_headId=9258edb98e0c5c9d0d35bca4f47ad38c&d_posi=87
+*************************
+**** One job skipped ****
+Evaluation failed: TypeError: Cannot read property 'innerText' of null
+    at __puppeteer_evaluation_script__:1:73
+
+Url: https://www.liepin.com/job/1919661967.shtml?imscid=R000000075&ckid=dbefbccdaa7128c9&headckid=null&pageNo=0&pageIdx9&totalIdx=9&sup=1&siTag=TEohjbjladFTrMikUzxO2A%7EzvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_sub_site&d_ckId=dd099ff3952f40e4cf5a265d8a6f9c7b&d_curPage=0&d_pageSize=40&d_headId=dd099ff3952f40e4cf5a265d8a6f9c7b&d_posi=9
+*************************
+**** One job skipped ****
+Evaluation failed: TypeError: Cannot read property 'innerText' of null
+    at __puppeteer_evaluation_script__:1:73
+
+Url: https://www.liepin.com/job/1914740221.shtml?imscid=R000000075&ckid=74b58f2b46ce2b11&headckid=74b58f2b46ce2b11&pageNo=2&pageIdx14&totalIdx=94&sup=1&siTag=Xwda4-H50DgruMRjKZH5bw%7EzvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_prime&d_ckId=a934761491e44c79e24f49695964244c&d_curPage=2&d_pageSize=40&d_headId=a934761491e44c79e24f49695964244c&d_posi=94
+*************************
+**** One job skipped ****
+Evaluation failed: TypeError: Cannot read property 'innerText' of null
+    at __puppeteer_evaluation_script__:1:73
+
+Url: https://www.liepin.com/job/1919968179.shtml?imscid=R000000075&ckid=d8b6e3f602f4778f&headckid=null&pageNo=3&pageIdx6&totalIdx=126&sup=1&siTag=xf0hTN0NKztCcuc7Aiulwg%7EzvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_sub_site&d_ckId=0a544fd8220035296c01452f20bab1ce&d_curPage=3&d_pageSize=40&d_headId=0a544fd8220035296c01452f20bab1ce&d_posi=126
+*************************
+**** One job skipped ****
+Evaluation failed: TypeError: Cannot read property 'innerText' of null
+    at __puppeteer_evaluation_script__:1:73
+
+Url: https://www.liepin.com/job/1916669921.shtml?imscid=R000000075&ckid=d8b6e3f602f4778f&headckid=null&pageNo=3&pageIdx13&totalIdx=133&sup=1&siTag=xf0hTN0NKztCcuc7Aiulwg%7EzvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_sub_site&d_ckId=0a544fd8220035296c01452f20bab1ce&d_curPage=3&d_pageSize=40&d_headId=0a544fd8220035296c01452f20bab1ce&d_posi=133
+*************************
+Mon May 20 2019 13:09:24 GMT-0700 (Pacific Daylight Time)
+Proxy Ip banned.
+-------------------------------------------------------------
+Mon May 20 2019 17:47:23 GMT-0700 (Pacific Daylight Time)
+
+net::ERR_CONNECTION_CLOSED at https://www.liepin.com/zhaopin/?isAnalysis=&dqs=&pubTime=&salary=&subIndustry=&industryType=industry_02&compscale=&key=ruby&init=-1&searchType=1&headckid=d8253d43e77fbf25&compkind=&fromSearchBtn=2&sortFlag=15&ckid=d8253d43e77fbf25&degradeFlag=0&jobKind=&industries=050&clean_condition=&siTag=WOU9EyTu9iZf25ewjtmq3w~zvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_prime&d_ckId=50072e1d2029b70ff8043de9b5d3094a&d_curPage=0&d_pageSize=40&d_headId=50072e1d2029b70ff8043de9b5d3094a&curPage=2
+
+Url: https://www.liepin.com/zhaopin/?isAnalysis=&dqs=&pubTime=&salary=&subIndustry=&industryType=industry_02&compscale=&key=ruby&init=-1&searchType=1&headckid=d8253d43e77fbf25&compkind=&fromSearchBtn=2&sortFlag=15&ckid=d8253d43e77fbf25&degradeFlag=0&jobKind=&industries=050&clean_condition=&siTag=WOU9EyTu9iZf25ewjtmq3w~zvU2C1lgLGbpL8vtBhrYig&d_sfrom=search_prime&d_ckId=50072e1d2029b70ff8043de9b5d3094a&d_curPage=0&d_pageSize=40&d_headId=50072e1d2029b70ff8043de9b5d3094a&curPage=2
+Key: Openstack, Industry: 电子
+-------------------------------------------------------------
+Mon May 20 2019 17:49:27 GMT-0700 (Pacific Daylight Time)
+Proxy Ip banned.
+-------------------------------------------------------------
+Mon May 20 2019 17:51:33 GMT-0700 (Pacific Daylight Time)
+Proxy Ip banned.
+-------------------------------------------------------------
+Mon May 20 2019 17:54:30 GMT-0700 (Pacific Daylight Time)
+Proxy Ip banned.
+-------------------------------------------------------------
